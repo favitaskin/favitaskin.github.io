@@ -1,2 +1,2 @@
-# favitaskin.github.io
-favitaskin.github.io
+# favitaskin
+favitaskin
